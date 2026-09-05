@@ -1,7 +1,13 @@
 # GB-Style-Creative-Model
 # 【GB‑Style Creative Assistant】(AI‑Powered Writing Aid)
 **Tech Stack**: Qwen (4‑bit quantization), LoRA/DPO fine‑tuning, Gradio, Python
+# Model Link
 
+Shared via Baidu Netdisk: `dpo_merged_model_offload`
+
+- Link: https://pan.baidu.com/s/1gxpG-9pPLG5tJSGwRCaE7A?pwd=gehw
+- Extraction Code: `gehw`
+  
 **Project Description**: Independently developed an AI‑powered writing assistant for female‑oriented creators. It addresses pain points including stylistic homogenization, logical inconsistency, and limited lexical diversity within specific GB‑style writing scenarios.
 
 **Core Contributions**:
